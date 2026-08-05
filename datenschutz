@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Datenschutzerklärung – NOLANI AI & IT</title>
+    <style>
+        body { font-family: system-ui, sans-serif; max-width: 900px; margin: 40px auto; padding: 20px; line-height: 1.6; color: #0f172a; }
+        h1 { color: #0D9488; }
+        h2 { color: #0D9488; margin-top: 30px; }
+        a { color: #0D9488; }
+    </style>
+</head>
+<body>
+
+<h1>Datenschutzerklärung</h1>
+
+<p><strong>NOLANI AI & IT</strong><br>
+Inhaber: Marc Wymann<br>
+Ort: Solothurn, Schweiz<br>
+E‑Mail: <a href="mailto:info@nolani.ch">info@nolani.ch</a></p>
+
+<h2>1. Allgemeines</h2>
+<p>Wir verarbeiten personenbezogene Daten ausschließlich im Rahmen der gesetzlichen Bestimmungen der Schweiz (DSG) und – sofern relevant – der EU‑DSGVO.</p>
+
+<h2>2. Erhobene Daten</h2>
+<ul>
+    <li>Kontaktinformationen (Name, E‑Mail, Telefonnummer)</li>
+    <li>Technische Daten (IP‑Adresse, Browserdaten)</li>
+    <li>Nutzungsdaten der Website</li>
+    <li>Daten, die du uns aktiv übermittelst (Formulare, E‑Mails)</li>
+</ul>
+
+<h2>3. Zweck der Verarbeitung</h2>
+<ul>
+    <li>Kommunikation und Support</li>
+    <li>Angebotserstellung und Vertragsabwicklung</li>
+    <li>Bereitstellung von IT‑Services, AI‑Consulting und Web‑Apps</li>
+    <li>Verbesserung unserer digitalen Dienstleistungen</li>
+</ul>
+
+<h2>4. Cookies & Tracking</h2>
+<p>Wir verwenden nur technisch notwendige Cookies. Es werden keine Tracking‑ oder Marketing‑Cookies eingesetzt.</p>
+
+<h2>5. Weitergabe von Daten</h2>
+<p>Es erfolgt keine Weitergabe an Dritte, außer wenn gesetzlich vorgeschrieben oder zur Vertragserfüllung notwendig.</p>
+
+<h2>6. Speicherdauer</h2>
+<p>Daten werden nur so lange gespeichert, wie es für den jeweiligen Zweck erforderlich ist.</p>
+
+<h2>7. Rechte der Nutzer</h2>
+<ul>
+    <li>Auskunft über gespeicherte Daten</li>
+    <li>Berichtigung oder Löschung</li>
+    <li>Einschränkung der Verarbeitung</li>
+</ul>
+
+<h2>8. Kontakt</h2>
+<p>Bei Fragen zur Datenverarbeitung kannst du uns jederzeit kontaktieren:<br>
+E‑Mail: <a href="mailto:info@nolani.ch">info@nolani.ch</a></p>
+
+</body>
+</html>
