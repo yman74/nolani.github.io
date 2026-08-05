@@ -1,1 +1,9 @@
-
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NOLANI Icon">
+  <rect width="512" height="512" rx="112" fill="none"/>
+  <g stroke="#0F172A" stroke-width="42" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 360 V152"/>
+    <path d="M344 360 V152"/>
+  </g>
+  <path d="M168 152 L344 360" stroke="#0D9488" stroke-width="42" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="344" cy="152" r="26" fill="#0D9488"/>
+</svg>
